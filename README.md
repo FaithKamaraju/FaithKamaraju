@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Faith Kamaraju
 
-<!--
-**FaithKamaraju/FaithKamaraju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Backend / Fullstack Developer | 💡 Passionate about building tools that blend creativity with technology
 
-Here are some ideas to get you started:
+📍 Windsor, Ontario  
+🌐 [faithkamaraju.onrender.com](https://faithkamaraju.onrender.com/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/faith-kamaraju-7245401b4) | [Bluesky](https://bsky.app/profile/faithkamaraju.bsky.social)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+- **Languages:** Typescript, Python, Go, C++
+- **Frameworks & Libraries:** React, NextJS, FastAPI, HuggingFace
+- **Databases:** PostgreSQL, MongoDB
+- **Tools & Platforms:** Docker, Kubernetes, GitHub Actions, Render
+
+---
+<!-- 
+## 🚀 Projects
+
+- **[SketchingPracticeTool](https://github.com/FaithKamaraju/SketchingPracticeTool):**  
+  A Three.js and React Fiber-based model loader designed for daily form sketching practice.:contentReference[oaicite:6]{index=6}
+
+- **[News-Webservice-BiasLanguageAnalysis](https://github.com/FaithKamaraju/News-Webservice-BiasLanguageAnalysis):**  
+  :contentReference[oaicite:8]{index=8}:contentReference[oaicite:10]{index=10}
+
+--- -->
+
+## 📫 Let's Connect
+
+Feel free to reach out or explore more of my work:
+
+- 🌐 [faithkamaraju.onrender.com](https://faithkamaraju.onrender.com/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/faith-kamaraju-7245401b4)
+- 🐦 [Bluesky](https://bsky.app/profile/faithkamaraju.bsky.social)
+
