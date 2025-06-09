@@ -9,15 +9,14 @@
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Typescript, Python, C++
+- **Languages:** Go, Python, Typescript, C++
 - **Frameworks & Libraries:** React, NextJS, FastAPI, HuggingFace
-- **Databases:** PostgreSQL, MongoDB
+- **Databases:** PostgreSQL
 - **Tools & Platforms:** Docker, Kubernetes, GitHub Actions, Render
 
 ---
 ## 📖👩‍💻 Currently Learning
 
-- Go.
 - Gin.
 - AI Agents in python.
 
