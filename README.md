@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Faith Kamaraju
 
-🎯 Backend Developer | 💡 Passionate about building tools that make an impact! | Advocate of using AI in an augumentative way!
+💡 Passionate about building tools that make an impact!
 
 📍 Windsor, Ontario  
 🌐 [faithkamaraju.onrender.com](https://faithkamaraju.onrender.com/)  
@@ -17,8 +17,9 @@
 ---
 ## 📖👩‍💻 Currently Learning
 
-- Gin.
-- AI Agents in python.
+- C++ (Re-learning)
+- Unreal Engine
+- Software Design (Re-learning)
 
 ---
 <!-- 
